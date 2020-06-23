@@ -1,5 +1,2 @@
 *cef_sandbox* filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
 libcef* filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> d50cef9fb7a03248d6cd9192dad374e8d90a46c4
